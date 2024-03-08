@@ -1,0 +1,10 @@
+* {
+    display: flex;
+    color: blue;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+}
